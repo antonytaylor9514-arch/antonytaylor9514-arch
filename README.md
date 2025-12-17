@@ -3,6 +3,8 @@
 I represent **OLEARY**, a professional manufacturer of **solid surface bathtubs and wash basins**,  
 providing **OEM / ODM customization** for global residential, hotel, and commercial bathroom projects.
 
+![OLEARY Solid Surface Bathtub](https://github.com/antonytaylor9514-arch/antonytaylor9514-arch/blob/dd490c2a7b4bed84323c2cb96a0834d4db3f7488/Custom-Bathroom-Solutions--25-Years-Solid-Surface-Manufacturer.jpg)
+
 ---
 
 ## 🛁 About OLEARY
