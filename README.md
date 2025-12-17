@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Antony Taylor
 
-<!--
-**antonytaylor9514-arch/antonytaylor9514-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I represent **OLEARY**, a professional manufacturer of **solid surface bathtubs and wash basins**,  
+providing **OEM / ODM customization** for global residential, hotel, and commercial bathroom projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛁 About OLEARY
+
+- 🏭 Factory-direct manufacturer based in China  
+- 🛠️ Specialized in solid surface / artificial stone sanitary ware  
+- 🌍 Serving clients in North America, Europe, Middle East & Australia  
+- 📦 Support custom size, color, finish & project-based orders  
+
+**Main Products**
+- Freestanding solid surface bathtubs  
+- Custom artificial stone wash basins  
+- Pedestal & countertop basins  
+- Shower trays & bathroom accessories  
+
+---
+
+## ✨ Why Choose OLEARY
+
+- One-piece casting with seamless structure  
+- Smooth matte finish, easy to clean and maintain  
+- Excellent heat retention and long-term durability  
+- Strict quality control for export standards  
+- Experienced in OEM, ODM and hotel project supply  
+
+---
+
+## 🔗 Official Website
+
+🌐 **https://olearybath.com**
+
+Explore product collections, customization options, and project references.
+
+---
+
+## 🤝 Cooperation
+
+We welcome cooperation with:
+- Bathroom brands & distributors  
+- Interior designers & architects  
+- Hotel, villa & apartment projects  
+- Cross-border eCommerce partners  
+
+📩 Please contact us via the website for inquiries and business cooperation.
+
+---
+
+## 📍 Location
+
+Foshan, China  
+Factory-based · Worldwide shipping supported
+
+---
+
+⭐ This GitHub profile is used for brand presentation and professional collaboration.
